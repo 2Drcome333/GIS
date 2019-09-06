@@ -4,6 +4,8 @@
 <!doctype html>
 <html lang="en">
   <head>
+
+
     <meta charset="UTF-8">
     <link rel="stylesheet" href="http://localhost:8080/geoserver/openlayers3/ol.css" type="text/css">
     <style>
